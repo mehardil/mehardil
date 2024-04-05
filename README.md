@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MEHAR DIL</h1>
-<h3 align="center">A passionate Data Engineer |Web scraper and Web Automation Engineering | Frontend Developer| Next js | React js |React Native</h3>
+<h3 align="center">A passionate Data Engineer and data analyst |Web scraper and Web Automation Engineering | Frontend Developer| Next js | React js |React Native</h3>
 <img src="https://komarev.com/ghpvc/?username=mehardil&label=Profile%20views&color=0e75b6&style=flat" alt="mehardil" />
-- 🔭 I’m currently working on **Facebook Automation**
+- 🔭 I’m currently working on **Facebook Automation** Operator(jazz,ufone ,telenor) Billing Database Management ** 
 
 - 🌱 I’m currently learning **Django and Node js**
 
